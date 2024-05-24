@@ -1,0 +1,7 @@
+li{
+   background-color: red;
+}
+
+ol:hover{
+border: 1px solid red;
+}

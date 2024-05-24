@@ -1,0 +1,233 @@
+
+body{
+    width: 100% ;
+    overflow-x:hidden;
+}
+.hw{
+    width:100%;
+    height:80px;
+    background-color:#F4F4F4;
+    position: fixed;
+    top: 0;
+    display: inline-block;
+    z-index: 100;
+}
+
+.box1234{
+    width: 400px;
+    height: 80px;
+    display: grid;
+    grid-template-columns:2fr 1fr 1fr 1fr 1fr 1fr;
+  
+    
+}
+
+p{
+    font-family: SQMarket-Medium, SQMarket, "Helvetica Neue", "Helvetica", "Arial", sans-serif;
+    font-size: 16px;
+    font-weight: 600;
+    text-align: center;margin-top: 30px;
+    color: #2F3337;
+}
+.butt{
+    width: 130px;
+    height:40px;
+    margin-top: 20px;
+    margin-left: 20px;
+    border: solid;
+    border-radius: 4px;
+    color: #3374FF;
+    border-color: #3374FF;
+    font-size: 16px;
+    font-family: SQMarket-Medium, SQMarket, "Helvetica Neue", "Helvetica", "Arial", sans-serif;
+    font-weight: 500;
+    background-color: #F4F4F4;
+    border-width: 1px;
+}
+.bigtext{
+    height: 100px;
+    max-width: 800px;
+    font-size: 44px;
+    color: #2F3337;
+    font-weight:bold;
+    font-family: SQMarket-Medium, SQMarket, "Helvetica Neue", "Helvetica", "Arial", sans-serif;
+    margin-left: 55px;
+    background-color:#F4F4F4;
+    
+    
+}
+.mainn{
+    width: 100%;
+    height: 730px;
+    background-color: #F4F4F4;
+     text-align: center;
+}
+.image1{
+    max-width:1251px;
+    max-height: 490px;
+}
+.max {
+    width:100%;
+}
+.everything{
+width:100%;
+height: 5982px;
+background-color: white;
+}
+.paragraph1{
+    width: 100%;
+    height:400px;
+    background-color: white;
+   
+}
+.photosdiv{
+    width:100%;
+    height: 300px;
+    background-color: white;
+    margin-top: 50px;
+    
+}
+.pic{
+  width: 100%;
+    height: 364px;
+    object-position: center;
+    object-fit: cover;
+    
+}
+.paragraph2{
+    width: 1000px;
+    height: 200px;
+    margin-top: 90px;
+     display: grid;
+     grid-template-columns:470px 280px 270px 370px;
+}
+.p1{
+  background-color: white;
+  height: 200px;
+ 
+}
+.p2{
+    background-color: white;
+    height: 200px;
+}
+.p3{
+    background-color: white;
+    height: 200px;
+}
+.p4{
+    height: 200px;
+    background-color:white;
+}
+
+h5{
+    color: #3E4348;
+    font-size: 14px;
+    font-family: SQMarket, "Helvetica Neue", "Helvetica", "Arial", sans-serif;
+    font-weight: normal;
+    text-align: left;
+    letter-spacing: 0;
+    line-height: 24px;
+    max-width: 220px;
+    text-align: center;
+    margin-left: 210px;
+    margin-top: 30px;
+}
+h6{
+    color: #3E4348;
+    font-size: 14px;
+    font-family: SQMarket, "Helvetica Neue", "Helvetica", "Arial", sans-serif;
+    font-weight: normal;
+    letter-spacing: 0;
+    line-height: 24px;
+    max-width: 230px;
+    text-align: center;
+   margin-left: 10px;
+
+}
+.abs{
+    width:100%px;
+    height: 674px;
+    z-index: 50;
+    position: absolute;
+    top: 420px;
+    margin-left: 200px;
+}
+.rel{
+    width:100%; 
+    height:750px;
+    display: block;
+    margin-top: 60px;
+}
+.texts{
+    width: 100%;
+    height: 180px;
+   margin-top: 80px;
+}
+h9{
+    color: #70767C;
+    font-size: 12px;
+    font-family: SQMarket-Medium, SQMarket, "Helvetica Neue", "Helvetica", "Arial", sans-serif;
+    font-weight: 500;
+margin-left: 590px;
+}
+h2{
+    color: #2F3337;
+    font-size: 30px;
+    font-family: SQMarket-Medium, SQMarket, "Helvetica Neue", "Helvetica", "Arial", sans-serif;
+    font-weight:bold;
+    max-width: 530px;
+    text-align: center;
+    margin-left: 445px;
+    
+}
+.para2{
+   max-width: 600px;
+    color: #2F3337;
+    font-size: 18px;
+    font-family: SQMarket-Medium, SQMarket, "Helvetica Neue", "Helvetica", "Arial", sans-serif;
+    font-weight: bold;
+    text-align: center;
+    line-height: 24px;
+    margin-top: 30px;
+    margin-left: 410px;
+}
+.line{
+    width: 962px;
+    height: 200px;
+    background-color: 0;
+    border-top: 1px solid #D8D8D8;
+    margin-top: 150px;
+    margin-left: 239px;
+}
+.com{
+    width:393px;font-size: 30px;
+        line-height: 40px;color: #2F3337;
+    font-family: SQMarket-Medium, SQMarket, Helvetica Neue, Helvetica, Arial, sans-serif;
+    text-align: center;
+    font-weight:0 ;
+}
+.com2{
+    max-width: 470px;font-size: 30px;
+    line-height: 40px;color: #2F3337;
+font-family: SQMarket-Medium, SQMarket, Helvetica Neue, Helvetica, Arial, sans-serif;
+text-align: center;
+margin-left: 270px;
+font-weight: bold;
+margin-top: 80px;
+}
+.com3{
+    color: #1B2126;
+    font-size: 16px;
+    font-family: SQMarket, "Helvetica Neue", "Helvetica", "Arial", sans-serif;
+    font-weight: normal;
+    text-align: center;
+    line-height: 28px;
+    max-width: 540px;
+    margin-left: 211px;
+}
+
+.ss1{
+    
+    text-align: center;
+    margin-top:70px ;
+}
