@@ -1,0 +1,36 @@
+body{
+    overflow-x: hidden;
+    width: 100%;
+    margin: 0;
+}
+img{
+    max-width: 90%;
+    overflow-x: hidden;
+}
+.centered {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+  }
+  .maintxt {
+    background-image: url('https://imangistudios.com/wp-content/themes/imangi-1-0/img/headers/hero_1920x700.jpg' );
+    background-size: cover;
+}
+.maintxt {position: relative;}
+.maintxt > img, .overlay-text {position: absolute;}
+.overlay-text {padding: 150px 50px;
+margin-top: -200px;}
+div{
+    max-width: 100%;
+}
+section{
+    overflow-x: hidden;
+    width: 100%;
+}
+a{
+    width: 10%;
+}
+.pic{
+    background-image: url(	https://imangistudios.com/wp-content/themes/imangi-1-0/img/headers/hero_600x400.jpg);
+}
