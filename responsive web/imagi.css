@@ -34,3 +34,14 @@ a{
 .pic{
     background-image: url(	https://imangistudios.com/wp-content/themes/imangi-1-0/img/headers/hero_600x400.jpg);
 }
+
+@media (max-width: 760px){
+    #cuu{
+        font-size: 20px;
+    }
+}
+@media (min-width: 300px){
+    #cuu{
+        width: 1000px;
+    }
+}
